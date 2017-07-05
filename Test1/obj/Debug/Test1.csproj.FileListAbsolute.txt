@@ -1,0 +1,6 @@
+c:\users\student\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+c:\users\student\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Test1.exe
+c:\users\student\documents\visual studio 2017\Projects\Test1\Test1\bin\Debug\Test1.pdb
+c:\users\student\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.exe
+c:\users\student\documents\visual studio 2017\Projects\Test1\Test1\obj\Debug\Test1.pdb
