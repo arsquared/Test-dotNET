@@ -14,7 +14,7 @@ namespace Test1
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Yodeleying Yak!");
+            Console.WriteLine("Yodeling Yak!");
             foo(37);
         }
     }
